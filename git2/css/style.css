@@ -34,3 +34,7 @@
     background: #ff0;
     clear: both;
 }
+
+#about #main{
+    width: 940px;
+}
